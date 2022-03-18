@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ```python
 import financial_analysis
 import financial_data
@@ -864,3 +865,6 @@ There's a clear trend where larger training fractions tend to yield better predi
 The outliers at very small and very large train fractions can be ignored since the data of the train or test allocations will have so little price history their parameters are largely useless.
 
 However, this is one isolated subset of stocks in one isolated time frame of 2 years- much more testing is required to come to any conclusions, but preliminary data seems promising.
+=======
+# PortfolioBuilder
+>>>>>>> c0d987015a882fe42cd5e4e424d058d277c48f28
